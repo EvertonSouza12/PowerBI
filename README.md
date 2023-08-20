@@ -1,1 +1,1 @@
-# Dashboard feito na matéria de Business Intelligence na faculdade.
+# Projetos da faculdade utilizando o Power Bi
